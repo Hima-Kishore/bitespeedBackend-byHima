@@ -1,4 +1,4 @@
-# BiteSpeed Backend
+# BiteSpeed Intern Backend
 
 A Node.js + TypeScript backend server built with Express and Prisma, designed to serve as the foundational service for BiteSpeed applications.
 
