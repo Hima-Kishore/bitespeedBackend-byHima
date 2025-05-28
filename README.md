@@ -65,7 +65,7 @@ npm run dev
 please send a POST request to the /identify end point to corresponding backend url
 
 ```bash
-https://bitespeed-by-hima.onrender.com
+[https://bitespeed-by-hima.onrender.com](https://bitespeedbackend-byhima.onrender.com)
 ```
 
 
