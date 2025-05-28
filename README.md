@@ -6,30 +6,20 @@ A Node.js + TypeScript backend server built with Express and Prisma, designed to
 
 ```bash
 bitespeed-backend/
-├── index.ts         # Entry point for development
-├── index.js         # Compiled output for production
-├── prisma/          # Prisma schema and migration files
-├── package.json     # Project metadata and dependencies
-├── tsconfig.json    # TypeScript configuration
+├── index.ts         
+├── contriollers/
+├── routes/    
+├── prisma/          
+├── package.json     
+├── tsconfig.json    
 ```
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-
-- Node.js (v16 or higher)
-- npm or yarn
-- PostgreSQL (or your preferred database)
-- Prisma CLI
 
 ### Installation
 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Hima-Kishore/bitespeed-by-hima.git
+git clone https://github.com/Hima-Kishore/bitespeedBackend-byHima.git
 cd bitespeed-backend
 npm install
 ```
