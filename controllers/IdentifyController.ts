@@ -103,10 +103,3 @@ export const identify = async (req: Request, res: Response) => {
     return res.status(500).json({ error: "Internal Server Error" });
   }
 };
-
-
-  } catch (err) {
-    console.error("Error identifying contact:", err);
-    return res.status(500).json({ error: "Internal Server Error" });
-  }
-};
